@@ -137,3 +137,116 @@ fbexternal-w.akamaihd.net
 fbexternal-x.akamaihd.net
 fbexternal-y.akamaihd.net
 fbexternal-z.akamaihd.net
+
+66.220.144.0 – 66.220.159.255
+69.63.176.0 – 69.63.191.255
+204.15.20.0 – 204.15.23.255
+69.63.176.13
+69.63.181.15
+69.63.184.142
+69.63.187.17
+69.63.187.18
+69.63.187.19
+69.63.181.11
+69.63.181.12
+
+102.132.96.0/20	 Facebook South Africa (Pty) Ltd	4,096
+102.132.96.0/24	 MBA1.01	256
+103.4.96.0/22	 1 Temasek Avenue	1,024
+129.134.0.0/17	 Facebook, Inc.	32,768
+129.134.25.0/24	 Facebook, Inc.	256
+129.134.26.0/24	 Facebook, Inc.	256
+129.134.27.0/24	 Facebook, Inc.	256
+129.134.28.0/24	 Facebook, Inc.	256
+129.134.29.0/24	 Facebook, Inc.	256
+129.134.30.0/23	 Facebook, Inc.	512
+129.134.30.0/24	 Facebook, Inc.	256
+129.134.31.0/24	 Facebook, Inc.	256
+129.134.64.0/24	 Facebook, Inc.	256
+129.134.65.0/24	 Facebook, Inc.	256
+129.134.66.0/24	 Facebook, Inc.	256
+129.134.67.0/24	 Facebook, Inc.	256
+129.134.68.0/24	 Facebook, Inc.	256
+129.134.69.0/24	 Facebook, Inc.	256
+129.134.70.0/24	 Facebook, Inc.	256
+157.240.0.0/17	 Facebook, Inc.	32,768
+157.240.0.0/24	 Facebook, Inc.	256
+157.240.10.0/24	 Facebook, Inc.	256
+157.240.1.0/24	 Facebook, Inc.	256
+157.240.11.0/24	 Facebook, Inc.	256
+157.240.12.0/24	 Facebook, Inc.	256
+157.240.13.0/24	 Facebook, Inc.	256
+157.240.14.0/24	 Facebook, Inc.	256
+157.240.17.0/24	 Facebook, Inc.	256
+157.240.18.0/24	 Facebook, Inc.	256
+157.240.19.0/24	 Facebook, Inc.	256
+157.240.192.0/18	 Facebook, Inc.	16,384
+157.240.193.0/24	 Facebook, Inc.	256
+157.240.194.0/24	 Facebook, Inc.	256
+157.240.195.0/24	 Facebook, Inc.	256
+157.240.196.0/24	 Facebook, Inc.	256
+157.240.197.0/24	 Facebook, Inc.	256
+157.240.199.0/24	 Facebook, Inc.	256
+157.240.200.0/24	 Facebook, Inc.	256
+157.240.20.0/24	 Facebook, Inc.	256
+157.240.201.0/24	 Facebook, Inc.	256
+157.240.2.0/24	 Facebook, Inc.	256
+157.240.204.0/24	 Facebook, Inc.	256
+157.240.205.0/24	 Facebook, Inc.	256
+157.240.206.0/24	 Facebook, Inc.	256
+157.240.209.0/24	 Facebook, Inc.	256
+157.240.210.0/24	 Facebook, Inc.	256
+157.240.21.0/24	 Facebook, Inc.	256
+157.240.211.0/24	 Facebook, Inc.	256
+157.240.212.0/24	 Facebook, Inc.	256
+157.240.213.0/24	 Facebook, Inc.	256
+157.240.215.0/24	 Facebook, Inc.	256
+157.240.216.0/24	 Facebook, Inc.	256
+157.240.217.0/24	 Facebook, Inc.	256
+157.240.218.0/24	 Facebook, Inc.	256
+157.240.220.0/24	 Facebook, Inc.	256
+157.240.22.0/24	 Facebook, Inc.	256
+157.240.221.0/24	 Facebook, Inc.	256
+157.240.222.0/24	 Facebook, Inc.	256
+157.240.223.0/24	 Facebook, Inc.	256
+157.240.26.0/24	 Facebook, Inc.	256
+157.240.27.0/24	 Facebook, Inc.	256
+157.240.28.0/24	 Facebook, Inc.	256
+157.240.29.0/24	 Facebook, Inc.	256
+157.240.30.0/24	 Facebook, Inc.	256
+157.240.3.0/24	 Facebook, Inc.	256
+157.240.6.0/24	 Facebook, Inc.	256
+157.240.7.0/24	 Facebook, Inc.	256
+157.240.8.0/24	 Facebook, Inc.	256
+157.240.9.0/24	 Facebook, Inc.	256
+173.252.64.0/19	 Facebook, Inc.	8,192
+173.252.88.0/21	 Facebook, Inc.	2,048
+173.252.96.0/19	 Facebook, Inc.	8,192
+179.60.192.0/22	 Edge Network Services Ltd	1,024
+179.60.192.0/24	 Edge Network Services Ltd	256
+179.60.194.0/24	 Edge Network Services Ltd	256
+179.60.195.0/24	 Edge Network Services Ltd	256
+185.60.216.0/22	 Facebook Ireland Ltd	1,024
+185.60.216.0/24	 Facebook Ireland Ltd	256
+185.60.217.0/24	 Facebook Ireland Ltd	256
+185.60.218.0/24	 Facebook Ireland Ltd	256
+185.60.219.0/24	 Facebook Ireland Ltd	256
+185.89.218.0/23	 Facebook, Inc.	512
+185.89.218.0/24	 Facebook, Inc.	256
+185.89.219.0/24	 Facebook, Inc.	256
+204.15.20.0/22	 Facebook, Inc.	1,024
+31.13.24.0/21	 Facebook Ireland Ltd	2,048
+31.13.64.0/18	 Facebook Ireland Ltd	16,384
+31.13.64.0/19	 Facebook Ireland Ltd	8,192
+31.13.64.0/24	 Facebook, Inc.	256
+31.13.65.0/24	 Facebook, Inc.	256
+31.13.66.0/24	 Facebook, Inc.	256
+31.13.67.0/24	 Facebook, Inc.	256
+31.13.69.0/24	 Facebook, Inc.	256
+31.13.70.0/24	 Facebook, Inc.	256
+31.13.71.0/24	 Facebook, Inc.	256
+31.13.72.0/24	 Facebook, Inc.	256
+31.13.73.0/24	 Facebook, Inc.	256
+31.13.74.0/24	 Facebook, Inc.	256
+31.13.75.0/24	 Facebook, Inc.	256
+31.13.76.0/24	 Facebook, Inc.	256
